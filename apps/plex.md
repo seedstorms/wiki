@@ -1,4 +1,4 @@
-<!-- TITLE: test -->
-<!-- SUBTITLE: A quick summary of tes -->
+<!-- TITLE: Install Plex -->
+<!-- SUBTITLE: Installing Plex -->
 
-# test
+# Installing
