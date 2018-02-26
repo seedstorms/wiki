@@ -1,4 +1,4 @@
-<!-- TITLE: Plex -->
-<!-- SUBTITLE: Setting up Plex -->
+<!-- TITLE: Apps -->
+<!-- SUBTITLE: Common Apps -->
 
-# What is Plex
+# Common Apps
