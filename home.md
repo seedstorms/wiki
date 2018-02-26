@@ -19,3 +19,8 @@ tar xvfz lab-app.tgz
 chown apache:root /var/www/html/rds.conf.php
 fi
 ```
+
+1. Then this: 
+
+`wget https://us-west-2-tcprod.s3.amazonaws.com/courses/AWS-100-ESS/v4.2.8/lab-1-build-a-web-server/scripts/lab-app.tgz
+`
