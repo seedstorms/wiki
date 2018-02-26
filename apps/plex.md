@@ -1,4 +1,4 @@
-<!-- TITLE: Install Plex -->
-<!-- SUBTITLE: Installing Plex -->
+<!-- TITLE: Plex -->
+<!-- SUBTITLE: Installing & using Plex -->
 
 # Installing
